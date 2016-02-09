@@ -1,0 +1,29 @@
+{
+  "name": "caldav",
+  "version": "0.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "basic-auth": "~1.0.3",
+    "calDavComposer": "git+https://github.com/kiselli/calDavComposer.git",
+    "express": "~4.13.3",
+    "ical": "~0.4.0"
+  },
+  "devDependencies": {
+    "basic-auth": "~1.0.3",
+    "bluebird": "^3.2.2",
+    "fs": "0.0.2",
+    "ical": "~0.4.0",
+    "moment": "~2.10.6",
+    "q": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@bitbucket.org:sg6/online-caldav-viewer.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause"
+}
