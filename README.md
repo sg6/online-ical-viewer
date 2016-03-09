@@ -1,6 +1,6 @@
 Install:
 
-1. `git clone https://github.com/sg6/online-icals-viewer.git`
+1. `git clone https://github.com/sg6/online-ical-viewer.git`
 1. `npm install`
 1. Fill the icals.json array with strings of your ical URLs in the following format:
 ```[
