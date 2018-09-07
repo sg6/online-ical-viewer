@@ -4,18 +4,9 @@
   "description": "",
   "main": "app.js",
   "dependencies": {
-    "basic-auth": "~1.0.3",
-    "calDavComposer": "git+https://github.com/kiselli/calDavComposer.git",
-    "express": "^4.16.3"
+    "calDavComposer": "git+https://github.com/kiselli/calDavComposer.git"
   },
-  "devDependencies": {
-    "basic-auth": "~1.0.3",
-    "bluebird": "^3.2.2",
-    "fs": "0.0.2",
-    "ical": "^0.5.0",
-    "moment": "^2.22.2",
-    "q": "^1.4.1"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
